@@ -57,6 +57,7 @@ console.log(movies[0]);
 
 // Verwacht antwoord:
 // The Shawshank Redemption
+console.log(movies[0].title);
 
 
 // ------------------------------------------------------------------------------ //
@@ -64,15 +65,15 @@ console.log(movies[0]);
 
 // Verwacht antwoord:
 // 6
-
-
+console.log('\nOpdracht 2')
+console.log(movies.length)
 
 // Opdracht 2b: Log het indexnummer van de laatste film in de 'movies' array. Let op: wanneer de array langer of korter wordt, moet dit nog steeds werken!
 
 // Verwacht antwoord:
 // 5
 
-
+console.log(movies.length - 1);
 
 // Opdracht 2c: Log het laatste object in de 'movies' array. Let op: wanneer de array langer of korter wordt, moet dit nog steeds werken!
 // Tip: maak gebruik van de code die je in de vorige opdracht hebt gemaakt.
