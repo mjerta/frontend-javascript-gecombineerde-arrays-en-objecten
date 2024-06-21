@@ -48,6 +48,9 @@ const movies = [
 //     actors: [ "Tim Robbins", "Morgan Freeman", "Bob Gunton" ]
 // }
 
+console.log('Opdracht 1');
+
+console.log(movies[0]);
 
 
 // Opdracht 1b: Log de titel van het eerste object in de 'movies' array
